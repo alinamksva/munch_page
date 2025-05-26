@@ -32,6 +32,7 @@
     body {
       font-family: 'Playfair Display', serif;
       background-color: rgba(212, 222, 226, 0.2);
+      color:#2D2A25;
     }
     
     h1, h2, h3 {
@@ -143,15 +144,17 @@
             </ul>
           </div>
         </div>
+        <!-- Добавленный текст под grid -->
+        <p class="text-lg mt-8 text-center text-munk-dark">
+            Исследуйте, как менялась цветовая палитра Мунка с течением времени. При наведении курсора на нужный год на гистограмме, ниже появятся картины этого периода.
+        </p>
+</section>
       </section>
 
       <!-- Color Analysis Timeline Section -->
-      <section class="py-8 md:py-12">
+      <section>
         <div class="max-w-6xl mx-auto px-4">
           <h2 class="text-3xl font-bold mb-6 text-center">Хронология цвета</h2>
-          <p class="text-center text-lg mb-8 max-w-2xl mx-auto">
-            Исследуйте, как менялась цветовая палитра Мунка с течением времени. Если наведете курсор на нужный год, ниже сможете увидеть картины этого периода.
-          </p>
           
           <div class="relative w-full max-w-4xl mx-auto mb-8">
             <div id="histogram-chart" class="w-full bg-munk-cream rounded-lg shadow-md p-4"></div>
