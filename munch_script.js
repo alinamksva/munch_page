@@ -8,7 +8,7 @@
         initializeYearComparison();
     })
     .catch(error => {
-        console.error('Ошибка загрузки munkData.json:', error);
+        console.error("Can't download colors_data.json:", error);
     });
 
     const emotionalStateColors = {

@@ -40,7 +40,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1882",
-                "imageUrl": "./images/1882_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1882_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -81,7 +81,7 @@
             {
                 "title": "Автопортрет в 19 лет",
                 "year": "1882",
-                "imageUrl": "./images/1882_mm_dd_a_Автопортрет_в_19_лет.jpg",
+                "imageUrl": "images/1882_mm_dd_a_Автопортрет_в_19_лет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -162,7 +162,7 @@
             {
                 "title": "Девушка",
                 "year": "1883",
-                "imageUrl": "./images/1883_mm_dd_i_Девушка.jpg",
+                "imageUrl": "images/1883_mm_dd_i_Девушка.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -243,7 +243,7 @@
             {
                 "title": "Больная девочка",
                 "year": "1885",
-                "imageUrl": "./images/1885_mm_dd_i_Больная_девочка.jpg",
+                "imageUrl": "images/1885_mm_dd_i_Больная_девочка.jpg",
                 "description": "Воспоминание о болезни и смерти старшей сестры Софи Мунк, умершей от туберкулеза в 1877 году.",
                 "dominantColors": [
                     {
@@ -324,7 +324,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1886",
-                "imageUrl": "./images/1886_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1886_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -365,7 +365,7 @@
             {
                 "title": "Следующий день",
                 "year": "1886",
-                "imageUrl": "./images/1886_mm_dd_i_Следующий_день.jpg",
+                "imageUrl": "images/1886_mm_dd_i_Следующий_день.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -446,7 +446,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1888",
-                "imageUrl": "./images/1888_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1888_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -527,7 +527,7 @@
             {
                 "title": "Летняя ночь (Ингер на берегу)",
                 "year": "1889",
-                "imageUrl": "./images/1889_mm_dd_i_Летняя_ночь_(Ингер_на_берегу).jpg",
+                "imageUrl": "images/1889_mm_dd_i_Летняя_ночь_(Ингер_на_берегу).jpg",
                 "description": "Изобразил младшую сестру Ингер Мунк.",
                 "dominantColors": [
                     {
@@ -568,7 +568,7 @@
             {
                 "title": "Весна",
                 "year": "1889",
-                "imageUrl": "./images/1889_mm_xx_i_Весна.jpg",
+                "imageUrl": "images/1889_mm_xx_i_Весна.jpg",
                 "description": "Воспоминание о болезни старшей сестры Софи, умершей от туберкулеза в 1877 году.",
                 "dominantColors": [
                     {
@@ -649,7 +649,7 @@
             {
                 "title": "Ночь в Ницце",
                 "year": "1891",
-                "imageUrl": "./images/1891_mm_dd_i_Ночь_в_Ницце.jpg",
+                "imageUrl": "images/1891_mm_dd_i_Ночь_в_Ницце.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -690,7 +690,7 @@
             {
                 "title": "Улица Лафайет",
                 "year": "1891",
-                "imageUrl": "./images/1891_mm_dd_i_Улица_Лафайет.jpg",
+                "imageUrl": "images/1891_mm_dd_i_Улица_Лафайет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -771,7 +771,7 @@
             {
                 "title": "Автопортрет под женской маской",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_a_Автопортрет_под_женской_маской.jpg",
+                "imageUrl": "images/1892_mm_dd_a_Автопортрет_под_женской_маской.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -812,7 +812,7 @@
             {
                 "title": "Вечер на улице Карла Иоанна",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Вечер_на_улице_Карла_Иоанна.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Вечер_на_улице_Карла_Иоанна.jpg",
                 "description": "Лица-маски и толпы людей будут часто появляться в работах Мунка.",
                 "dominantColors": [
                     {
@@ -853,7 +853,7 @@
             {
                 "title": "Лунный свет на берегу",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Лунный_свет_на_берегу.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Лунный_свет_на_берегу.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -894,7 +894,7 @@
             {
                 "title": "Меланхолия",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Меланхолия.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Меланхолия.jpg",
                 "description": "Изобразил друга Яппе Нильсен, страдающего от несчастливого романа.",
                 "dominantColors": [
                     {
@@ -935,7 +935,7 @@
             {
                 "title": "Портрет Ингер Мунк",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Портрет_Ингер_Мунк.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Портрет_Ингер_Мунк.jpg",
                 "description": "Изобразил младшую сестру Ингер Мунк.",
                 "dominantColors": [
                     {
@@ -976,7 +976,7 @@
             {
                 "title": "Тайна летней ночи",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Тайна_летней_ночи.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Тайна_летней_ночи.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1017,7 +1017,7 @@
             {
                 "title": "Отчаяние",
                 "year": "1892",
-                "imageUrl": "./images/1892_mm_dd_i_Отчаяние.jpg",
+                "imageUrl": "images/1892_mm_dd_i_Отчаяние.jpg",
                 "description": "В личном дневнике сделал пометку к картине о том, как во время прогулки с друзьями почувствал тревожность, одиночество и смирение перед трагичным исходом жизни.",
                 "dominantColors": [
                     {
@@ -1098,7 +1098,7 @@
             {
                 "title": "Буря",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Буря.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Буря.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1139,7 +1139,7 @@
             {
                 "title": "Голос",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Голос.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Голос.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1180,7 +1180,7 @@
             {
                 "title": "Крик",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Крик.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Крик.jpg",
                 "description": "Рефлексия о везапном ощущении безысходности и трагичности жизни, которые Мунк испытал во время прогулки с друзьями в 1892 году.",
                 "dominantColors": [
                     {
@@ -1221,7 +1221,7 @@
             {
                 "title": "Лунный свет",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Лунный_свет.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Лунный_свет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1262,7 +1262,7 @@
             {
                 "title": "Меланхолия",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Меланхолия.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Меланхолия.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1303,7 +1303,7 @@
             {
                 "title": "Руки",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Руки.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Руки.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1344,7 +1344,7 @@
             {
                 "title": "Смерть в комнате больного",
                 "year": "1893",
-                "imageUrl": "./images/1893_mm_dd_i_Смерть_в_комнате_больного.jpg",
+                "imageUrl": "images/1893_mm_dd_i_Смерть_в_комнате_больного.jpg",
                 "description": "Изобразил свою семью, собравшуюся после смерти старшей сестры Софи в 1877 году.",
                 "dominantColors": [
                     {
@@ -1425,7 +1425,7 @@
             {
                 "title": "Мадонна",
                 "year": "1894",
-                "imageUrl": "./images/1894_mm_dd_i_Мадонна.jpg.jpg",
+                "imageUrl": "images/1894_mm_dd_i_Мадонна.jpg.jpg",
                 "description": "Моделью для Мадонны была близкая подруга Мунка — Дагни Юль.",
                 "dominantColors": [
                     {
@@ -1466,7 +1466,7 @@
             {
                 "title": "Пепел",
                 "year": "1894",
-                "imageUrl": "./images/1894_mm_dd_i_Пепел.jpg",
+                "imageUrl": "images/1894_mm_dd_i_Пепел.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1507,7 +1507,7 @@
             {
                 "title": "Созревание",
                 "year": "1894",
-                "imageUrl": "./images/1894_mm_dd_i_Созревание.jpg",
+                "imageUrl": "images/1894_mm_dd_i_Созревание.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1548,7 +1548,7 @@
             {
                 "title": "Тревога",
                 "year": "1894",
-                "imageUrl": "./images/1894_mm_dd_i_Тревога.jpg",
+                "imageUrl": "images/1894_mm_dd_i_Тревога.jpg",
                 "description": "Рефлексия о везапном ощущении безысходности и трагичности во время прогулки с друзьями в 1892 году.",
                 "dominantColors": [
                     {
@@ -1589,7 +1589,7 @@
             {
                 "title": "Три возраста женщины (Сфинкс)",
                 "year": "1894",
-                "imageUrl": "./images/1894_mm_dd_i_Три_стадии_женщины_(Сфинкс).jpg",
+                "imageUrl": "images/1894_mm_dd_i_Три_стадии_женщины_(Сфинкс).jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1670,7 +1670,7 @@
             {
                 "title": "Автопортрет с зажженной сигаретой",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_a_Автопортрет_с_зажженной_сигаретой.jpg",
+                "imageUrl": "images/1895_mm_dd_a_Автопортрет_с_зажженной_сигаретой.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1711,7 +1711,7 @@
             {
                 "title": "Автопортрет со скелетом руки",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_a_Автопортрет_со_скелетом_руки.jpg",
+                "imageUrl": "images/1895_mm_dd_a_Автопортрет_со_скелетом_руки.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1752,7 +1752,7 @@
             {
                 "title": "Вампир",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_Вампир.jpg",
+                "imageUrl": "images/1895_mm_dd_i_Вампир.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1793,7 +1793,7 @@
             {
                 "title": "Запах смерти",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_Запах_смерти.jpg",
+                "imageUrl": "images/1895_mm_dd_i_Запах_смерти.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1834,7 +1834,7 @@
             {
                 "title": "Крик",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_Крик_1.jpg",
+                "imageUrl": "images/1895_mm_dd_i_Крик_1.jpg",
                 "description": "Мунк часто возвращался к сюжету «Крика», поспроизводя эту работу в разных вариантах и техниках.",
                 "dominantColors": [
                     {
@@ -1875,7 +1875,7 @@
             {
                 "title": "Лунный свет",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_Лунный_свет.jpg",
+                "imageUrl": "images/1895_mm_dd_i_Лунный_свет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1916,7 +1916,7 @@
             {
                 "title": "Мадонна",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_Мадонна.jpg",
+                "imageUrl": "images/1895_mm_dd_i_Мадонна.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -1957,7 +1957,7 @@
             {
                 "title": "У смертного одра",
                 "year": "1895",
-                "imageUrl": "./images/1895_mm_dd_i_У_смертного_одра.jpg",
+                "imageUrl": "images/1895_mm_dd_i_У_смертного_одра.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2038,7 +2038,7 @@
             {
                 "title": "Девушка на берегу",
                 "year": "1896",
-                "imageUrl": "./images/1896_mm_dd_i_Девушка_на_берегу.jpg",
+                "imageUrl": "images/1896_mm_dd_i_Девушка_на_берегу.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2079,7 +2079,7 @@
             {
                 "title": "Расставание",
                 "year": "1896",
-                "imageUrl": "./images/1896_mm_dd_i_Расставание.jpg",
+                "imageUrl": "images/1896_mm_dd_i_Расставание.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2160,7 +2160,7 @@
             {
                 "title": "Мать и дочь",
                 "year": "1897",
-                "imageUrl": "./images/1897_mm_dd_i_Мать_и_дочь.jpg",
+                "imageUrl": "images/1897_mm_dd_i_Мать_и_дочь.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2201,7 +2201,7 @@
             {
                 "title": "Поцелуй",
                 "year": "1897",
-                "imageUrl": "./images/1897_mm_dd_i_Поцелуй.jpg",
+                "imageUrl": "images/1897_mm_dd_i_Поцелуй.jpg",
                 "description": "Исследователи считают, что комната на картине похожа на комнату Мунка. Возможно, на этой картине Мунк запечатлел самого себя с женщиной.",
                 "dominantColors": [
                     {
@@ -2242,7 +2242,7 @@
             {
                 "title": "Поцелуй",
                 "year": "1897",
-                "imageUrl": "./images/1897_mm_dd_i_Поцелуй.jpg.jpg",
+                "imageUrl": "images/1897_mm_dd_i_Поцелуй.jpg.jpg",
                 "description": "Исследователи считают, что комната на картине похожа на комнату Мунка. Возможно, на этой картине Мунк запечатлел самого себя с женщиной.",
                 "dominantColors": [
                     {
@@ -2323,7 +2323,7 @@
             {
                 "title": "Вынос гроба",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Вынос_гроба.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Вынос_гроба.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2364,7 +2364,7 @@
             {
                 "title": "Две женщины. Символический этюд",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Две_женщины._Символический_этюд.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Две_женщины._Символический_этюд.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2405,7 +2405,7 @@
             {
                 "title": "Женщина у фьорда в Осгорстранне",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Женщина_у_фьорда_в_Осгорстранне.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Женщина_у_фьорда_в_Осгорстранне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2446,7 +2446,7 @@
             {
                 "title": "Красный плющ",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Красный_плющ.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Красный_плющ.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2487,7 +2487,7 @@
             {
                 "title": "Мужчина и женщина",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Мужчина_и_женщина.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Мужчина_и_женщина.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2528,7 +2528,7 @@
             {
                 "title": "Обнаженная в профиль справа",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Обнаженная_в_профиль_справа.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Обнаженная_в_профиль_справа.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2569,7 +2569,7 @@
             {
                 "title": "Плодородие",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Плодородие.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Плодородие.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2610,7 +2610,7 @@
             {
                 "title": "Пляж",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Пляж.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Пляж.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2651,7 +2651,7 @@
             {
                 "title": "Радуга",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Радуга.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Радуга.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2692,7 +2692,7 @@
             {
                 "title": "Ревность в купальне",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Ревность_в_купалье.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Ревность_в_купалье.jpg",
                 "description": "Мунк часто возвращался к теме ревности.",
                 "dominantColors": [
                     {
@@ -2733,7 +2733,7 @@
             {
                 "title": "Сидящая обнаженная на пляже",
                 "year": "1898",
-                "imageUrl": "./images/1898_mm_dd_i_Сидящая_обнаженная_на_пляже.jpg",
+                "imageUrl": "images/1898_mm_dd_i_Сидящая_обнаженная_на_пляже.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2814,7 +2814,7 @@
             {
                 "title": "Дом Мунка в Осгорстранне",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Дом_Мунка_в_Осгорстранне.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Дом_Мунка_в_Осгорстранне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2855,7 +2855,7 @@
             {
                 "title": "Дом и мастерская Мунка в Осгорстранне",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Дом_и_мастерская_Мунка_в_Осгорстранне.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Дом_и_мастерская_Мунка_в_Осгорстранне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2896,7 +2896,7 @@
             {
                 "title": "Дом с красным виноградом",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Дом_с_красным_виноградом.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Дом_с_красным_виноградом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2937,7 +2937,7 @@
             {
                 "title": "Дом с красным диким виноградом",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Дом_с_красным_диким_виноградом.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Дом_с_красным_диким_виноградом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -2978,7 +2978,7 @@
             {
                 "title": "Зима в лесу. Нурстранн",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Зима_в_лесу._Нурстранн.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Зима_в_лесу._Нурстранн.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3019,7 +3019,7 @@
             {
                 "title": "Летняя ночь в Студентерлюннене",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Летняя_ночь_в_Студентерлюннене.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Летняя_ночь_в_Студентерлюннене.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3060,7 +3060,7 @@
             {
                 "title": "Метрвая мать и ребенок",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Метрвая_мать_и_ребенок.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Метрвая_мать_и_ребенок.jpg",
                 "description": "Мать Мунка умерла от туберкулеза, когда мальчику было всего 5 лет.",
                 "dominantColors": [
                     {
@@ -3101,7 +3101,7 @@
             {
                 "title": "Обмен веществ",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Обмен_веществ.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Обмен_веществ.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3142,7 +3142,7 @@
             {
                 "title": "Осе и Харальд Нёррегор",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Осе_и_Харальд_Нёррегор.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Осе_и_Харальд_Нёррегор.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3183,7 +3183,7 @@
             {
                 "title": "Портрет Осе Неррегор",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Портрет_Осе_Неррегор.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Портрет_Осе_Неррегор.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3224,7 +3224,7 @@
             {
                 "title": "Сидящая обнажённая женщина и три мужские головы",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Сидящая_обнажённая_женщина_и_три_мужские_головы.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Сидящая_обнажённая_женщина_и_три_мужские_головы.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3265,7 +3265,7 @@
             {
                 "title": "Смерть и ребенок",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Смерть_и_ребенок.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Смерть_и_ребенок.jpg",
                 "description": "Мать Мунка умерла от туберкулеза, когда мальчику было всего 5 лет.",
                 "dominantColors": [
                     {
@@ -3306,7 +3306,7 @@
             {
                 "title": "Танец жизни",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Танец_жизни.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Танец_жизни.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3347,7 +3347,7 @@
             {
                 "title": "Темный еловый лес",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Темный_еловый_лес_1.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Темный_еловый_лес_1.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3388,7 +3388,7 @@
             {
                 "title": "Темный еловый лес",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Темный_еловый_лес_2.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Темный_еловый_лес_2.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3429,7 +3429,7 @@
             {
                 "title": "Темный еловый лес",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Темный_еловый_лес_3.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Темный_еловый_лес_3.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3470,7 +3470,7 @@
             {
                 "title": "Трагедия",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Трагедия.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Трагедия.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3511,7 +3511,7 @@
             {
                 "title": "Тулла Ларсен",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Тулла_Ларсен_1.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Тулла_Ларсен_1.jpg",
                 "description": "Роман Мунка и Туллы Ларсен длился 4 года.",
                 "dominantColors": [
                     {
@@ -3552,7 +3552,7 @@
             {
                 "title": "Тулла Ларсен",
                 "year": "1899",
-                "imageUrl": "./images/1899_mm_dd_i_Тулла_Ларсен_2.jpg",
+                "imageUrl": "images/1899_mm_dd_i_Тулла_Ларсен_2.jpg",
                 "description": "Роман Мунка и Туллы Ларсен длился 4 года.",
                 "dominantColors": [
                     {
@@ -3633,7 +3633,7 @@
             {
                 "title": "Белая ночь",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Белая_ночь.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Белая_ночь.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3674,7 +3674,7 @@
             {
                 "title": "Вид из Нурстранна",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Вид_из_Нурстранна.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Вид_из_Нурстранна.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3715,7 +3715,7 @@
             {
                 "title": "Вид из Нурстранна",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Вид_из_Нурстранна_1.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Вид_из_Нурстранна_1.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3756,7 +3756,7 @@
             {
                 "title": "Глаза в глаза",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Глаза_в_глаза.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Глаза_в_глаза.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3797,7 +3797,7 @@
             {
                 "title": "Голгофа",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Голгофа.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Голгофа.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3838,7 +3838,7 @@
             {
                 "title": "Дымящий поезд",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Дымящий_поезд.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Дымящий_поезд.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3879,7 +3879,7 @@
             {
                 "title": "Закат. Нурстранн",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Закат._Нурстранн.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Закат._Нурстранн.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3920,7 +3920,7 @@
             {
                 "title": "Зима",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Зима.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Зима.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -3961,7 +3961,7 @@
             {
                 "title": "Красное и белое",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Красное_и_белое.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Красное_и_белое.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4002,7 +4002,7 @@
             {
                 "title": "Меланхолия",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Меланхолия.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Меланхолия.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4043,7 +4043,7 @@
             {
                 "title": "Остров",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Остров.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Остров.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4084,7 +4084,7 @@
             {
                 "title": "Парижский бульвар",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Парижский_бульвар.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Парижский_бульвар.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4125,7 +4125,7 @@
             {
                 "title": "Танцы на пляже",
                 "year": "1900",
-                "imageUrl": "./images/1900_mm_dd_i_Танцы_на_пляже.jpg",
+                "imageUrl": "images/1900_mm_dd_i_Танцы_на_пляже.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4206,7 +4206,7 @@
             {
                 "title": "Девочки на мосту",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Девочки_на_мосту_1.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Девочки_на_мосту_1.jpg",
                 "description": "Виды Осгорстранна, где у Мунка был дом.",
                 "dominantColors": [
                     {
@@ -4247,7 +4247,7 @@
             {
                 "title": "Девочки на мосту",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Девочки_на_мосту_2.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Девочки_на_мосту_2.jpg",
                 "description": "Виды Осгорстранна, где у Мунка был дом.",
                 "dominantColors": [
                     {
@@ -4288,7 +4288,7 @@
             {
                 "title": "Зима в Нурстранне",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Зима_в_Нурстранне.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Зима_в_Нурстранне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4329,7 +4329,7 @@
             {
                 "title": "Зимний лес",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Зимний_лес.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Зимний_лес.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4370,7 +4370,7 @@
             {
                 "title": "Зимняя ночь",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Зимняя_ночь.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Зимняя_ночь.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4411,7 +4411,7 @@
             {
                 "title": "Улица в Осгорстранне",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Улица_в_Осгорстранне_1.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Улица_в_Осгорстранне_1.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4452,7 +4452,7 @@
             {
                 "title": "Улица в Осгорстранне",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_i_Улица_в_Осгорстранне_2.jpg",
+                "imageUrl": "images/1901_mm_dd_i_Улица_в_Осгорстранне_2.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4493,7 +4493,7 @@
             {
                 "title": "Семья",
                 "year": "1901",
-                "imageUrl": "./images/1901_mm_dd_Семейная_книга.jpg",
+                "imageUrl": "images/1901_mm_dd_Семейная_книга.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4574,7 +4574,7 @@
             {
                 "title": "В саду",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_В_саду.jpg",
+                "imageUrl": "images/1902_mm_dd_i_В_саду.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4615,7 +4615,7 @@
             {
                 "title": "Четыре этапа жизни",
                 "year": "1904",
-                "imageUrl": "./images/1902_mm_dd_i_Четыре_этапа_жизни.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Четыре_этапа_жизни.jpg",
                 "description": "Размышления о жизненном пути человека и его этапах.",
                 "dominantColors": [
                     {
@@ -4656,7 +4656,7 @@
             {
                 "title": "Вампир",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Вампир_2.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Вампир_2.jpg",
                 "description": "Повторяет мотив, созданный в 1895 году.",
                 "dominantColors": [
                     {
@@ -4697,7 +4697,7 @@
             {
                 "title": "Две обнаженные у комода",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Две_обнаженные_у_комода.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Две_обнаженные_у_комода.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4738,7 +4738,7 @@
             {
                 "title": "Девочка в красном клетчатом платье и красной шляпе",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Девочка_в_красном_клетчатом_платье_и_красной_шляпе.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Девочка_в_красном_клетчатом_платье_и_красной_шляпе.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4779,7 +4779,7 @@
             {
                 "title": "Девочки на мосту",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Девочки_на_мосту.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Девочки_на_мосту.jpg",
                 "description": "Виды Осгорстранна, где у Мунка был дом.",
                 "dominantColors": [
                     {
@@ -4820,7 +4820,7 @@
             {
                 "title": "Девочки на мосту",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Девочки_на_мосту_1.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Девочки_на_мосту_1.jpg",
                 "description": "Виды Осгорстранна, где у Мунка был дом.",
                 "dominantColors": [
                     {
@@ -4861,7 +4861,7 @@
             {
                 "title": "Дом в летнюю ночь",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Дом_в_летнюю_ночь.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Дом_в_летнюю_ночь.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4902,7 +4902,7 @@
             {
                 "title": "Женщины на мосту",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Женщины_на_мосту.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Женщины_на_мосту.jpg",
                 "description": "Виды Осгорстранна, где у Мунка был дом.",
                 "dominantColors": [
                     {
@@ -4943,7 +4943,7 @@
             {
                 "title": "Катафалк на Потсдамер-Платц",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Катафалк_на_Потсдамер-Платц.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Катафалк_на_Потсдамер-Платц.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -4984,7 +4984,7 @@
             {
                 "title": "Катафалк на Потсдамер-Платц",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Катафалк_на_Потсдамер-Платц_2.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Катафалк_на_Потсдамер-Платц_2.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5025,7 +5025,7 @@
             {
                 "title": "На операционном столе",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_На_операционном_столе.jpg",
+                "imageUrl": "images/1902_mm_dd_i_На_операционном_столе.jpg",
                 "description": "Автопортрет.",
                 "dominantColors": [
                     {
@@ -5066,7 +5066,7 @@
             {
                 "title": "Обнажённая с длинными рыжими волосами",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Обнажённая_с_длинными_рыжими_волосами.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Обнажённая_с_длинными_рыжими_волосами.jpg",
                 "description": "Вероятно, на картине изображена возлюбленная Мунка Тулла Ларсен.",
                 "dominantColors": [
                     {
@@ -5107,7 +5107,7 @@
             {
                 "title": "Обнаженная",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Обнаженная.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Обнаженная.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5148,7 +5148,7 @@
             {
                 "title": "Обнаженная в интерьере",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Обнаженная_в_интерьере.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Обнаженная_в_интерьере.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5189,7 +5189,7 @@
             {
                 "title": "Одежда на веревочке в Осгорстранне",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Одежда_на_веревочке_в_Осгорстранне.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Одежда_на_веревочке_в_Осгорстранне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5230,7 +5230,7 @@
             {
                 "title": "Плодородие",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Плодородие.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Плодородие.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5271,7 +5271,7 @@
             {
                 "title": "Приёмные матери перед окружным судом",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Приёмные_матери_перед_окружным_судом.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Приёмные_матери_перед_окружным_судом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5312,7 +5312,7 @@
             {
                 "title": "Рыбак на жёлтом фоне",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Рыбак_на_жёлтом_фоне.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Рыбак_на_жёлтом_фоне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5353,7 +5353,7 @@
             {
                 "title": "Сад",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Сад.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Сад.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5394,7 +5394,7 @@
             {
                 "title": "Санаторий",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Санаторий.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Санаторий.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5435,7 +5435,7 @@
             {
                 "title": "Сидящая обнаженная",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Сидящая_обнаженная.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Сидящая_обнаженная.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5476,7 +5476,7 @@
             {
                 "title": "Сказочный лес",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Сказочный_лес.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Сказочный_лес.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5517,7 +5517,7 @@
             {
                 "title": "Старый рыбак со своей дочерью",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Старый_рыбак_со_своей_дочерью.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Старый_рыбак_со_своей_дочерью.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5558,7 +5558,7 @@
             {
                 "title": "Улица в Осгорстранне с женщиной в красном платье",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Улица_в_Осгорстранне_с_женщиной_в_красном_платье.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Улица_в_Осгорстранне_с_женщиной_в_красном_платье.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5599,7 +5599,7 @@
             {
                 "title": "Утро. Обнаженная у окна",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Утро._Обнаженная_у_окна.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Утро._Обнаженная_у_окна.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5640,7 +5640,7 @@
             {
                 "title": "Яблоня",
                 "year": "1902",
-                "imageUrl": "./images/1902_mm_dd_i_Яблоня.jpg",
+                "imageUrl": "images/1902_mm_dd_i_Яблоня.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5721,7 +5721,7 @@
             {
                 "title": "Автопортрет в Аду",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_a_Автопортрет_в_Аду.jpg",
+                "imageUrl": "images/1903_mm_dd_a_Автопортрет_в_Аду.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5762,7 +5762,7 @@
             {
                 "title": "Белая ночь. Осгардстран",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Белая_ночь._Осгардстран.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Белая_ночь._Осгардстран.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5803,7 +5803,7 @@
             {
                 "title": "Дамы на мосту",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Дамы_на_мосту.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Дамы_на_мосту.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5844,7 +5844,7 @@
             {
                 "title": "Двое детей на пути в сказочный лес",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Двое_детей_на_пути_в_сказочный_лес.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Двое_детей_на_пути_в_сказочный_лес.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5885,7 +5885,7 @@
             {
                 "title": "Дети",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Дети.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Дети.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5926,7 +5926,7 @@
             {
                 "title": "Ночь святого Ханса",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Ночь_святого_Ханса.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Ночь_святого_Ханса.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -5967,7 +5967,7 @@
             {
                 "title": "Три девушки на причале",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Три_девушки_на_причале.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Три_девушки_на_причале.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6008,7 +6008,7 @@
             {
                 "title": "Штормовой пейзаж",
                 "year": "1903",
-                "imageUrl": "./images/1903_mm_dd_i_Штормовой_пейзаж.jpg",
+                "imageUrl": "images/1903_mm_dd_i_Штормовой_пейзаж.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6089,7 +6089,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_a_Автопортрт.jpg",
+                "imageUrl": "images/1904_mm_dd_a_Автопортрт.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6130,7 +6130,7 @@
             {
                 "title": "Автопортрет с кистями",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Автопортрет_с_кистями.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Автопортрет_с_кистями.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6171,7 +6171,7 @@
             {
                 "title": "Летний день",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Летний_день.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Летний_день.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6212,7 +6212,7 @@
             {
                 "title": "Летняя ночь в Арсгардстранде",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Летняя_ночь_в_Арсгардстранде.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Летняя_ночь_в_Арсгардстранде.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6253,7 +6253,7 @@
             {
                 "title": "Летняя ночь на пляже",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Летняя_ночь_на_пляже.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Летняя_ночь_на_пляже.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6294,7 +6294,7 @@
             {
                 "title": "Пейзаж с красным домом",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Пейзаж_с_красным_домом.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Пейзаж_с_красным_домом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6335,7 +6335,7 @@
             {
                 "title": "Рождество в борделе",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Рождество_в_публичном_доме.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Рождество_в_публичном_доме.jpg",
                 "description": "В момент создания картины Мунк переживал из-за срыва заказа на портрет богатого виноторговца Гольтгузена. Свои переживания Мунк пытался заглушить алкоголем.",
                 "dominantColors": [
                     {
@@ -6376,7 +6376,7 @@
             {
                 "title": "Сын",
                 "year": "1904",
-                "imageUrl": "./images/1904_mm_dd_i_Сын.jpg",
+                "imageUrl": "images/1904_mm_dd_i_Сын.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6457,7 +6457,7 @@
             {
                 "title": "Автопортерт",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_a_Автопортерт.jpg",
+                "imageUrl": "images/1905_mm_dd_a_Автопортерт.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6498,7 +6498,7 @@
             {
                 "title": "Автопортрет на зелёном фоне",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_a_Автопортрет_на_зелёном_фоне.jpg",
+                "imageUrl": "images/1905_mm_dd_a_Автопортрет_на_зелёном_фоне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6539,7 +6539,7 @@
             {
                 "title": "Автопортрет с Туллой Ларсен",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_a_Автопортрет_с_Тулла_Ларсен.jpg",
+                "imageUrl": "images/1905_mm_dd_a_Автопортрет_с_Тулла_Ларсен.jpg",
                 "description": "С Туллой Ларсен Мунк расстался в 1902 году, когда в ходе конфликта он получил огнестрельное ранение в палец левой руки.",
                 "dominantColors": [
                     {
@@ -6580,7 +6580,7 @@
             {
                 "title": "Голова к голове",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_i_Голова_к_голове.jpg",
+                "imageUrl": "images/1905_mm_dd_i_Голова_к_голове.jpg",
                 "description": "Вероятно, это автопортерт с музой Эвой Мудоччи.",
                 "dominantColors": [
                     {
@@ -6621,7 +6621,7 @@
             {
                 "title": "Два человека. Одинокие",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_i_Два_человека._Одинокие.jpg",
+                "imageUrl": "images/1905_mm_dd_i_Два_человека._Одинокие.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6662,7 +6662,7 @@
             {
                 "title": "Дом у фьорда",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_i_Дом_у_фьорда.jpg",
+                "imageUrl": "images/1905_mm_dd_i_Дом_у_фьорда.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6703,7 +6703,7 @@
             {
                 "title": "Наследие",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_i_Наследие.jpg",
+                "imageUrl": "images/1905_mm_dd_i_Наследие.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6744,7 +6744,7 @@
             {
                 "title": "Под звездами",
                 "year": "1905",
-                "imageUrl": "./images/1905_mm_dd_i_Под_звездами.jpg",
+                "imageUrl": "images/1905_mm_dd_i_Под_звездами.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6825,7 +6825,7 @@
             {
                 "title": "Автопортрет на красном фоне",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_a_Автопортрет_на_красном_фоне.jpg",
+                "imageUrl": "images/1906_mm_dd_a_Автопортрет_на_красном_фоне.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6866,7 +6866,7 @@
             {
                 "title": "Автопортрет с бутылкой вина",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_a_Автопортрет_с_бутылкой_вина.jpg",
+                "imageUrl": "images/1906_mm_dd_a_Автопортрет_с_бутылкой_вина.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6907,7 +6907,7 @@
             {
                 "title": "Первый снег",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_i_Первый_снег.jpg",
+                "imageUrl": "images/1906_mm_dd_i_Первый_снег.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6948,7 +6948,7 @@
             {
                 "title": "Сельская улица",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_i_Сельская_улица.jpg",
+                "imageUrl": "images/1906_mm_dd_i_Сельская_улица.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -6989,7 +6989,7 @@
             {
                 "title": "Убийца",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_i_Убийца.jpg",
+                "imageUrl": "images/1906_mm_dd_i_Убийца.jpg",
                 "description": "В роли убийцы Мунк изобразил Туллу Ларсен, с которой у него был сложный болезненный роман.",
                 "dominantColors": [
                     {
@@ -7030,7 +7030,7 @@
             {
                 "title": "Фридрих Ницше",
                 "year": "1906",
-                "imageUrl": "./images/1906_mm_dd_i_Фридрих_Ницше.jpg",
+                "imageUrl": "images/1906_mm_dd_i_Фридрих_Ницше.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7111,7 +7111,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1907",
-                "imageUrl": "./images/1907_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1907_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7152,7 +7152,7 @@
             {
                 "title": "Пара на побережье",
                 "year": "1907",
-                "imageUrl": "./images/1907_mm_dd_i_Пара_на_побережье.jpg",
+                "imageUrl": "images/1907_mm_dd_i_Пара_на_побережье.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7193,7 +7193,7 @@
             {
                 "title": "Публичный дом. Для милой Мадель",
                 "year": "1907",
-                "imageUrl": "./images/1907_mm_dd_i_Публичный_дом._Для_милой_Мадель.jpg",
+                "imageUrl": "images/1907_mm_dd_i_Публичный_дом._Для_милой_Мадель.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7234,7 +7234,7 @@
             {
                 "title": "Смерть Марата",
                 "year": "1907",
-                "imageUrl": "./images/1907_mm_dd_i_Смерть_Марата.jpg",
+                "imageUrl": "images/1907_mm_dd_i_Смерть_Марата.jpg",
                 "description": "В роли Марата Мунк изображает самого себя, а убийцей делает Туллу Ларсен, с которой у него был болезненный роман.",
                 "dominantColors": [
                     {
@@ -7315,7 +7315,7 @@
             {
                 "title": "Автопортрет на фоне голубого неба",
                 "year": "1908",
-                "imageUrl": "./images/1908_mm_dd_a_Автопортрет_на_фоне_голубого_неба.jpg",
+                "imageUrl": "images/1908_mm_dd_a_Автопортрет_на_фоне_голубого_неба.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7396,7 +7396,7 @@
             {
                 "title": "Автопортрет в больнице профессора Якобсона",
                 "year": "1909",
-                "imageUrl": "./images/1909_mm_dd_a_Автопортрет_в_больнице_профессора_Якобсона.jpg",
+                "imageUrl": "images/1909_mm_dd_a_Автопортрет_в_больнице_профессора_Якобсона.jpg",
                 "description": "Автопортрет был создан в период лечения в психиатрической больнице.",
                 "dominantColors": [
                     {
@@ -7437,7 +7437,7 @@
             {
                 "title": "Медсестры с простыней",
                 "year": "1909",
-                "imageUrl": "./images/1909_mm_dd_i_Медсёстры с простынёй.jpeg",
+                "imageUrl": "images/1909_mm_dd_i_Медсёстры с простынёй.jpeg",
                 "description": "Работа была создана в период лечения в психиатрической больнице.",
                 "dominantColors": [
                     {
@@ -7518,7 +7518,7 @@
             {
                 "title": "Крик",
                 "year": "1910",
-                "imageUrl": "./images/1910_mm_dd_i_Крик.jpg",
+                "imageUrl": "images/1910_mm_dd_i_Крик.jpg",
                 "description": "Мунк неоднократно повторял этот мотив в период с 1893 по 1910 годы.",
                 "dominantColors": [
                     {
@@ -7559,7 +7559,7 @@
             {
                 "title": "Убийца",
                 "year": "1910",
-                "imageUrl": "./images/1910_mm_dd_i_Убийца.jpg",
+                "imageUrl": "images/1910_mm_dd_i_Убийца.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7640,7 +7640,7 @@
             {
                 "title": "Автопортрет с рукой у щеки",
                 "year": "1911",
-                "imageUrl": "./images/1911_mm_dd_a_Автопортрет_с рукой_у_щеки.jpg",
+                "imageUrl": "images/1911_mm_dd_a_Автопортрет_с рукой_у_щеки.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7681,7 +7681,7 @@
             {
                 "title": "Меланхолия",
                 "year": "1911",
-                "imageUrl": "./images/1911_mm_dd_i_Меланхолия.jpg",
+                "imageUrl": "images/1911_mm_dd_i_Меланхолия.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7762,7 +7762,7 @@
             {
                 "title": "Зима",
                 "year": "1912",
-                "imageUrl": "./images/1912_mm_dd_i_Зима, Крагеро.jpeg",
+                "imageUrl": "images/1912_mm_dd_i_Зима, Крагеро.jpeg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7843,7 +7843,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1913",
-                "imageUrl": "./images/1913_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1913_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7884,7 +7884,7 @@
             {
                 "title": "Обнаженная",
                 "year": "1913",
-                "imageUrl": "./images/1913_mm_dd_i_Обнаженная.jpg",
+                "imageUrl": "images/1913_mm_dd_i_Обнаженная.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -7925,7 +7925,7 @@
             {
                 "title": "Солнце",
                 "year": "1913",
-                "imageUrl": "./images/1913_mm_dd_i_Солнце.jpg",
+                "imageUrl": "images/1913_mm_dd_i_Солнце.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8006,7 +8006,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1915",
-                "imageUrl": "./images/1915_mm_dd_a_Автопортрет1.jpg",
+                "imageUrl": "images/1915_mm_dd_a_Автопортрет1.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8047,7 +8047,7 @@
             {
                 "title": "Автопортрет в плаще и со шляпой",
                 "year": "1915",
-                "imageUrl": "./images/1915_mm_dd_a_Автопортрет_в_плаще_и_со_шляпой.jpg",
+                "imageUrl": "images/1915_mm_dd_a_Автопортрет_в_плаще_и_со_шляпой.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8088,7 +8088,7 @@
             {
                 "title": "Автопортрет с шляпой и красным галстуком",
                 "year": "1915",
-                "imageUrl": "./images/1915_mm_dd_a_Автопортрет_с_шляпой_и_красным_галстуком.jpg",
+                "imageUrl": "images/1915_mm_dd_a_Автопортрет_с_шляпой_и_красным_галстуком.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8129,7 +8129,7 @@
             {
                 "title": "Дети на улице",
                 "year": "1915",
-                "imageUrl": "./images/1915_mm_dd_i_Дети_на_улице.jpg",
+                "imageUrl": "images/1915_mm_dd_i_Дети_на_улице.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8170,7 +8170,7 @@
             {
                 "title": "Рабочие на пути домой",
                 "year": "1915",
-                "imageUrl": "./images/1915_mm_dd_i_Рабочие_на_пути_домой.jpg",
+                "imageUrl": "images/1915_mm_dd_i_Рабочие_на_пути_домой.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8251,7 +8251,7 @@
             {
                 "title": "Автопортрет в Бергене",
                 "year": "1916",
-                "imageUrl": "./images/1916_mm_dd_a_Автопортрет_в_Бергене.jpg",
+                "imageUrl": "images/1916_mm_dd_a_Автопортрет_в_Бергене.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8292,7 +8292,7 @@
             {
                 "title": "Солнце",
                 "year": "1916",
-                "imageUrl": "./images/1916_mm_dd_i_Солнце.jpg",
+                "imageUrl": "images/1916_mm_dd_i_Солнце.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8373,7 +8373,7 @@
             {
                 "title": "Адам и Ева",
                 "year": "1918",
-                "imageUrl": "./images/1918_mm_dd_i_Адам_и_Ева.jpg",
+                "imageUrl": "images/1918_mm_dd_i_Адам_и_Ева.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8454,7 +8454,7 @@
             {
                 "title": "Автопортрет (в смятении)",
                 "year": "1919",
-                "imageUrl": "./images/1919_mm_dd_a_Автопортрет_(в_смятении).jpg",
+                "imageUrl": "images/1919_mm_dd_a_Автопортрет_(в_смятении).jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8495,7 +8495,7 @@
             {
                 "title": "Автопортрет после испанского гриппа",
                 "year": "1919",
-                "imageUrl": "./images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа.jpg",
+                "imageUrl": "images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа.jpg",
                 "description": "Изображает себя после болезни испанским гриппом в 1918 году.",
                 "dominantColors": [
                     {
@@ -8536,7 +8536,7 @@
             {
                 "title": "Автопортрет после испанского гриппа",
                 "year": "1919",
-                "imageUrl": "./images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа2.jpg",
+                "imageUrl": "images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа2.jpg",
                 "description": "Изображает себя после болезни испанским гриппом в 1918 году.",
                 "dominantColors": [
                     {
@@ -8577,7 +8577,7 @@
             {
                 "title": "Автопортрет после испанского гриппа",
                 "year": "1919",
-                "imageUrl": "./images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа3.jpg",
+                "imageUrl": "images/1919_mm_dd_a_Автопортрет_после_испанского_гриппа3.jpg",
                 "description": "Изображает себя после болезни испанским гриппом в 1918 году.",
                 "dominantColors": [
                     {
@@ -8618,7 +8618,7 @@
             {
                 "title": "Убийца на дороге",
                 "year": "1919",
-                "imageUrl": "./images/1919_mm_dd_i_Убийца_на_дороге.jpg",
+                "imageUrl": "images/1919_mm_dd_i_Убийца_на_дороге.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8699,7 +8699,7 @@
             {
                 "title": "Художник и его модель",
                 "year": "1921",
-                "imageUrl": "./images/1921_mm_dd_i_Художник_и_его_модель.jpg",
+                "imageUrl": "images/1921_mm_dd_i_Художник_и_его_модель.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8780,7 +8780,7 @@
             {
                 "title": "Звездная ночь",
                 "year": "1922",
-                "imageUrl": "./images/1922_mm_dd_i_Звездная_ночь.jpg",
+                "imageUrl": "images/1922_mm_dd_i_Звездная_ночь.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8861,7 +8861,7 @@
             {
                 "title": "Автопортрет",
                 "year": "1923",
-                "imageUrl": "./images/1923_mm_dd_a_Автопортрет.jpg",
+                "imageUrl": "images/1923_mm_dd_a_Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -8942,7 +8942,7 @@
             {
                 "title": "Автопортрет. Ночной странник",
                 "year": "1924",
-                "imageUrl": "./images/1924_mm_dd_a_Автопортрет._Ночной_странник.jpg",
+                "imageUrl": "images/1924_mm_dd_a_Автопортрет._Ночной_странник.jpg",
                 "description": "Продолжает работать над заказами.",
                 "dominantColors": [
                     {
@@ -8983,7 +8983,7 @@
             {
                 "title": "Молодая женщина на веранде",
                 "year": "1924",
-                "imageUrl": "./images/1924_mm_dd_i_Молодая_женщина_на_веранде.jpg",
+                "imageUrl": "images/1924_mm_dd_i_Молодая_женщина_на_веранде.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9064,7 +9064,7 @@
             {
                 "title": "Цыганская свадьба",
                 "year": "1925",
-                "imageUrl": "./images/1925_mm_dd_i_Цыганская_свадьба.jpg",
+                "imageUrl": "images/1925_mm_dd_i_Цыганская_свадьба.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9145,7 +9145,7 @@
             {
                 "title": "Автопортрет в Экели",
                 "year": "1926",
-                "imageUrl": "./images/1926_mm_dd_a_Автопортрет_в_Экели.jpg",
+                "imageUrl": "images/1926_mm_dd_a_Автопортрет_в_Экели.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9186,7 +9186,7 @@
             {
                 "title": "Автопортрет за свадебным столом",
                 "year": "1926",
-                "imageUrl": "./images/1926_mm_dd_a_Автопортрет_за_свадебным_столом.jpg",
+                "imageUrl": "images/1926_mm_dd_a_Автопортрет_за_свадебным_столом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9227,7 +9227,7 @@
             {
                 "title": "Автопортрет на фоне стены дома",
                 "year": "1926",
-                "imageUrl": "./images/1926_mm_dd_a_Автопортрет_на_фоне_стены_дома.jpg",
+                "imageUrl": "images/1926_mm_dd_a_Автопортрет_на_фоне_стены_дома.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9268,7 +9268,7 @@
             {
                 "title": "Автопортрет с руками в карманах",
                 "year": "1926",
-                "imageUrl": "./images/1926_mm_dd_a_Автопортрет_с_руками_в_карманах.jpg",
+                "imageUrl": "images/1926_mm_dd_a_Автопортрет_с_руками_в_карманах.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9349,7 +9349,7 @@
             {
                 "title": "Собака",
                 "year": "1927",
-                "imageUrl": "./images/1927_mm_dd_i_Dog.jpeg",
+                "imageUrl": "images/1927_mm_dd_i_Dog.jpeg",
                 "description": "Изобразил свою собачку.",
                 "dominantColors": [
                     {
@@ -9390,7 +9390,7 @@
             {
                 "title": "Красный дом",
                 "year": "1927",
-                "imageUrl": "./images/1927_mm_dd_i_Red House and Spruces.jpeg",
+                "imageUrl": "images/1927_mm_dd_i_Red House and Spruces.jpeg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9471,7 +9471,7 @@
             {
                 "title": "Модель на кушетке",
                 "year": "1928",
-                "imageUrl": "./images/1928_mm_dd_i_Модель_на_кушетке.jpg",
+                "imageUrl": "images/1928_mm_dd_i_Модель_на_кушетке.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9552,7 +9552,7 @@
             {
                 "title": "Обнаженная рядом с плетеным креслом",
                 "year": "1929",
-                "imageUrl": "./images/1929_mm_dd_i_Обнаженная_рядом_с_плетеным_креслом.jpg",
+                "imageUrl": "images/1929_mm_dd_i_Обнаженная_рядом_с_плетеным_креслом.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9633,7 +9633,7 @@
             {
                 "title": "Автопортрет во время болезни глаз",
                 "year": "1930",
-                "imageUrl": "./images/1930_mm_dd_a_Автопортрет_во_время_болезни_глаз.jpg",
+                "imageUrl": "images/1930_mm_dd_a_Автопортрет_во_время_болезни_глаз.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9674,7 +9674,7 @@
             {
                 "title": "Голова собаки",
                 "year": "1930",
-                "imageUrl": "./images/1930_mm_dd_i_Голова_собаки.jpg",
+                "imageUrl": "images/1930_mm_dd_i_Голова_собаки.jpg",
                 "description": "Изобразил свою собачку.",
                 "dominantColors": [
                     {
@@ -9755,7 +9755,7 @@
             {
                 "title": "Одинокие",
                 "year": "1935",
-                "imageUrl": "./images/1935_mm_dd_i_Одинокие.jpg",
+                "imageUrl": "images/1935_mm_dd_i_Одинокие.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9836,7 +9836,7 @@
             {
                 "title": "Автопортрет с бутылками",
                 "year": "1938",
-                "imageUrl": "./images/1938_mm_dd_a_Автопортрет_с_бутылками.jpg",
+                "imageUrl": "images/1938_mm_dd_a_Автопортрет_с_бутылками.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9917,7 +9917,7 @@
             {
                 "title": "Автопортрет с головой трески",
                 "year": "1940",
-                "imageUrl": "./images/1940_mm_dd_a_Автопортрет_с_головой_трески.jpg",
+                "imageUrl": "images/1940_mm_dd_a_Автопортрет_с_головой_трески.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -9958,7 +9958,7 @@
             {
                 "title": "У окна",
                 "year": "1940",
-                "imageUrl": "./images/1940_mm_dd_a_У_окна.jpg",
+                "imageUrl": "images/1940_mm_dd_a_У_окна.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -10039,7 +10039,7 @@
             {
                 "title": "Автопортрет в саду Экели",
                 "year": "1942",
-                "imageUrl": "./images/1942_mm_dd_a_Автопортрет_в_саду_Экели.jpg",
+                "imageUrl": "images/1942_mm_dd_a_Автопортрет_в_саду_Экели.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -10120,7 +10120,7 @@
             {
                 "title": "Автопортрет с пастельной палкой",
                 "year": "1943",
-                "imageUrl": "./images/1943_mm_dd_a_Автопортрет_с_пастельной_палкой_2.jpg",
+                "imageUrl": "images/1943_mm_dd_a_Автопортрет_с_пастельной_палкой_2.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -10161,7 +10161,7 @@
             {
                 "title": "Автопортрет между часами и кроватью ",
                 "year": "1943",
-                "imageUrl": "./images/1943_mm_dd_a_Между_часами_и_кроватью._Автопортрет.jpg",
+                "imageUrl": "images/1943_mm_dd_a_Между_часами_и_кроватью._Автопортрет.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
@@ -10242,7 +10242,7 @@
             {
                 "title": "Автопортрет в полосатом свитере",
                 "year": "1944",
-                "imageUrl": "./images/1944_mm_dd_a_Автопортрет_в_полосатом_свитере.jpg",
+                "imageUrl": "images/1944_mm_dd_a_Автопортрет_в_полосатом_свитере.jpg",
                 "description": " ",
                 "dominantColors": [
                     {
